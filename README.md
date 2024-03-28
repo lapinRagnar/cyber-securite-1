@@ -28,3 +28,10 @@ https://pentesterlab.com/
 
 # securité web - les ressources
 https://www.youtube.com/watch?v=V2kck-rC2jk
+
+https://portswigger.net/web-security
+https://github.com/danielmiessler/SecLists
+https://github.com/ffuf/ffuf
+https://github.com/ticarpi/jwt_tool
+https://developer.mozilla.org/en-US/
+
