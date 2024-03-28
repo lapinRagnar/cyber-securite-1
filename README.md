@@ -25,3 +25,6 @@ Lien du github Fransible : https://github.com/fransosiche/fransible
 # pentesterlab
 
 https://pentesterlab.com/
+
+# securité web - les ressources
+https://www.youtube.com/watch?v=V2kck-rC2jk
