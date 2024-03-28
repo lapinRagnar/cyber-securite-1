@@ -13,3 +13,7 @@ https://www.youtube.com/watch?v=7D-DapSZYZ4
 https://www.youtube.com/watch?v=KWOs0Waq2TM
 
 # exegol
+
+
+# La distribution LINUX PARFAITE pour faire de la CYBERSÉCURITÉ ?!
+https://github.com/laluka/lalubuntu
