@@ -17,3 +17,5 @@ https://www.youtube.com/watch?v=KWOs0Waq2TM
 
 # La distribution LINUX PARFAITE pour faire de la CYBERSÉCURITÉ ?!
 https://github.com/laluka/lalubuntu
+
+https://www.youtube.com/watch?v=sZQ6FVncuNA
